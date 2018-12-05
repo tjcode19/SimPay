@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    android:visible="true"
+    android:useLevel="false">
+    <solid android:color="@color/colorWhite"/>
+    <corners
+        android:radius="30dp"/>
+    <size
+        android:width="30dp"
+        android:height="30dp" />
+    <margin  android:right="10dp" />
+    <!--  Gradient Bg for listrow
+    <padding android:bottom="20dp"
+        android:right="20dp"
+        android:left="20dp"
+        android:top="20dp"/>-->
+</shape>
